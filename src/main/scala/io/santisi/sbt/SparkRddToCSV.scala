@@ -1,5 +1,4 @@
 package io.santisi.sbt
-import org.apache.commons.csv.{CSVFormat, CSVPrinter}
 import org.apache.spark.sql.{Row, SparkSession}
 
 class SparkRddToCSV {
